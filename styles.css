@@ -2,14 +2,12 @@ body{
     background: grey;
 	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
+
 .header {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
+	padding: 2%;
 }
 
 .post {
